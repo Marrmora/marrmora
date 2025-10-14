@@ -6,4 +6,4 @@ I'm an aspiring Software & Data Developer from Estonia learning Python and web t
 📄 [My CV](https://drive.google.com/drive/folders/1UASeelggsLdcivObgc_ctoKE-IIkeAMJ?usp=sharing) | 💼 [LinkedIn](www.linkedin.com/in/maria-vorontsova-805a8832b)<br/>
 <br/>
 <br/>
-[![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=marrmora&show_icons=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+[![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=marrmora&show_icons=true&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
